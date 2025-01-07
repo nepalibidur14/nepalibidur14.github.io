@@ -1,2 +1,4 @@
+# theme: minima
+
 sass:
   sass_dir: assets/css
